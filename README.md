@@ -15,3 +15,17 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=djangra2003&show_icons=true&locale=en&layout=compact" alt="djangra2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djangra2003&" alt="djangra2003" /></p>
+
+## Career Highlights
+- Developed multiple personal projects to showcase coding skills, including:
+  - Voice Assistant
+  - GUI calculator
+
+## Education
+**Dronacharya Group of Institutions Greater Noida**  
+Bachelor of Technology, Computer Science  
+*2021 - 2025*
+
+## Skills
+HTML5   •   Cascading Style Sheets (CSS)   •   Python (Programming Language)   •    MySQL   •   JavaScript   
+
