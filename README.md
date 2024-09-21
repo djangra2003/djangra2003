@@ -2,6 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djangra2003&label=Profile%20views&color=0e75b6&style=flat" alt="djangra2003" /> </p>
 
 - How to reach me **dhruv81jangra@gmail.com**
+- 👀 I’m interested in learning new concepts of programming, reading, sketching and listening music.
+-  🌱 I’m currently learning Javascript and concepts of Front End Development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
